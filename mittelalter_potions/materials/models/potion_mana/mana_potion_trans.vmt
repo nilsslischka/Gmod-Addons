@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	
+	"$baseTexture"	"models/Potion_mana/Mana_potion"
+	"$surfaceprop" "Glass"
+	"$bumpmap" "models/Potion_mana/Mana_potion_normal"
+
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" "[2 2 2]"
+	"$envmapsaturation" 1
+
+	//"$envmap" "Envcubemaps/graycubemap"
+	"$envmap" "env_cubemap"
+	"$translucent" 1
+	"$mostlyopac" 1
+	"$envmaptint" "[.8 .8 .8]"
+}
